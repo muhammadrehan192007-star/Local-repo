@@ -51,3 +51,13 @@ git pull origin main (For move our remote controls or code in our local or pc sy
 git merge <-Branch name where we are not stand-> (For merge git branches)
 <br>
 git push <-For pushing our code to our git account->
+<br>
+git reset <-file name-> (For undo our code)
+<br>
+git reset HEAD~1 (for only just one commits undo)
+<br>
+git log (for checking all commits history)
+<br>
+git reset <-commit Hash , a specific code-> (For multiple times to undo our commit)
+<br>
+Fork is a method in GIT by which we copy whole code of other programmer on our local system and also on our git account
