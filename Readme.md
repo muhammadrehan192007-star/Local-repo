@@ -50,3 +50,4 @@ git pull origin main (For move our remote controls or code in our local or pc sy
 <br>
 git merge <-Branch name where we are not stand-> (For merge git branches)
 <br>
+git push <-For pushing our code to our git account->
