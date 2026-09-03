@@ -32,6 +32,10 @@ git checkout main (for switching main branch)
 <br>
 git checkout <-Any branch name-> (For switching any branch which name we enter)
 <br>
+git checkout -b <-Any name for create new branch-> (For craete new branch)
+<br>
+git checkout -d <-Any branch name for delete-> (For deleting any branch)
+<br>
 mkdir <-Any follder name-> (For make new folder with the help of terminal and command)
 <br>
 git init (Used to convert any folder or file to make them in git file)
@@ -39,3 +43,5 @@ git init (Used to convert any folder or file to make them in git file)
 git remote add origin <-Any link which we get from GIT new Repository-> (For add new origin in GIT)
 <br>
 git remote -v (For verify the remote)
+<br>
+git 
