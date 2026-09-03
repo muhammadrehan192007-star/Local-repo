@@ -44,4 +44,9 @@ git remote add origin <-Any link which we get from GIT new Repository-> (For add
 <br>
 git remote -v (For verify the remote)
 <br>
-git 
+git diff <-branch name-> (For checking difference)
+<br>
+git pull origin main (For move our remote controls or code in our local or pc system)
+<br>
+git merge <-Branch name where we are not stand-> (For merge git branches)
+<br>
