@@ -48,7 +48,7 @@ git diff <-branch name-> (For checking difference)
 <br>
 git pull origin main (For move our remote controls or code in our local or pc system)
 <br>
-git merge <-Branch name where we are not stand-> (For merge git branches)
+git merge <-Branch name where we are not stand-> (For merge git branches. Always go to main branch for merge our other branch)
 <br>
 git push <-For pushing our code to our git account->
 <br>
